@@ -2,7 +2,7 @@ img.jpg
 *.csv
 *.txt
 BioID/
-images_resized/
+resized_images/
 
 # Compiled source #
 ###################
